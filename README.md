@@ -6,7 +6,7 @@ The aim of this project is to demonstrate the equivalence between SQL queries an
 
 # Tech Stack
 SQL <br>
-Python and Pandas <br>
+Python (with Pandas) <br>
 Jupyter Notebooks <br>
 
 # Dataset 
